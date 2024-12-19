@@ -25,7 +25,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/uuCrush' }
+      { icon: 'github', link: 'https://github.com/uuTrunk' }
     ]
   }
 })
